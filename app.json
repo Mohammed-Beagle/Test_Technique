@@ -17,15 +17,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.mohammedbeagle.ContactsApp"
+      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.mohammedbeagle.ContactsApp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
